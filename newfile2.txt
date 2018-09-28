@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 updating file2 in mergebranch1
+=======
+updating file2 in merge branch2
+>>>>>>> Mergebranch2
